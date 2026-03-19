@@ -3,6 +3,13 @@
 	margin: 0;
 	Padding: 0;
 }
+
+#title {
+	font-family: var(--heading-font);
+	font-size: 48px;
+	margin: 20px;
+}
+
 /*Contact Cards*/
 .profile-card {
 	display: grid;
